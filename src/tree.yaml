@@ -1,9 +1,10 @@
 id: phylotree-rcrs
 version: 16.0
-name: PhyloTree 16
+name: PhyloTree
 category: rCRS (Human mtDNA)
 description: mtDNA tree Build 16 including 4,806 haplogroups
-url: https://github.com/genepi/haplogrep3/data/trees/phylotree/16
+url: https://github.com/genepi/phylotree-rcrs-16
+deprecated: true
 lastUpdate: 2014/02/19
 tree: tree.xml
 weights: weights.txt
@@ -64,4 +65,5 @@ genes:
  - "TRNT"
  - "TRNP"
 source:
-  - "Phylotree.org http://phylotree.org/builds/mtDNA_tree_Build_16.zip"
+  - "Weissensteiner H, Pacher D, Kloss-Brandstätter A, Forer L, Specht G, Bandelt HJ, Kronenberg F, Salas A, Schönherr S. HaploGrep 2: mitochondrial haplogroup classification in the era of high-throughput sequencing. Nucleic Acids Res. 2016 Jul 8;44(W1):W58-63. doi: 10.1093/nar/gkw233. Epub 2016 Apr 15. PMID: 27084951; PMCID: PMC4987869."
+  - "van Oven M, Kayser M. Updated comprehensive phylogenetic tree of global human mitochondrial DNA variation. Hum Mutat. 2009 Feb;30(2):E386-94. doi: 10.1002/humu.20921. PMID: 18853457."
